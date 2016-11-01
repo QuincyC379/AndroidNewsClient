@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 使用自定义的SwipeRefreshLayout,增加上拉加载更多操作 -->
+<com.gc.newsclient.view.RefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/srl_news"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/lv_news"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</com.gc.newsclient.view.RefreshLayout>
+

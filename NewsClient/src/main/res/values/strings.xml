@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">新闻开源</string>
+    <string name="information">新闻开源</string>
+    <string name="loading">加载中..</string>
+
+    <string name="about">\t\t本项目属于Android Material Design新闻类开源项目，新闻数据采集自CSDN资讯的HTML，
+        使用Jsoup抓取解析页面的数据。</string>
+    <string name="text">\t\t在Android客户端，顶部采用Toolbar替代了Actionbar,指示器使用 TabLayout 完成，业界
+        栏目采用 SwipeRefreshLayout + Listview 实现，此处自定义 SwipeRefreshLayout 实现了 Listview 上拉
+        加载功能，新闻详情界面采用WebView实现。而 移动开发 栏目则采用SwipeRefreshLayout + RecyclerView 实现。
+    </string>
+    <string name="author">作者：郭朝</string>
+    <string name="blogurl">博客：http://blog.csdn.net/smartbetter</string>
+    <string name="githuburl">Github：https://github.com/smartbetter</string>
+
+</resources>
