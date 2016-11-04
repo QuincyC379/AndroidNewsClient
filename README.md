@@ -14,10 +14,10 @@
 
 ## Preview
 
-![](https://raw.githubusercontent.com/smartbetter/Android-NewsClient/master/ScreenShot/screenshot0.gif)
-![](https://raw.githubusercontent.com/smartbetter/Android-NewsClient/master/ScreenShot/screenshot1.gif)
-![](https://raw.githubusercontent.com/smartbetter/Android-NewsClient/master/ScreenShot/screenshot2.gif)
-![](https://raw.githubusercontent.com/smartbetter/Android-NewsClient/master/ScreenShot/screenshot3.gif)
+![](https://raw.githubusercontent.com/smartbetter/Android-NewsClient/master/ScreenShot/Screenshot0.gif)
+![](https://raw.githubusercontent.com/smartbetter/Android-NewsClient/master/ScreenShot/Screenshot1.gif)
+![](https://raw.githubusercontent.com/smartbetter/Android-NewsClient/master/ScreenShot/Screenshot2.gif)
+![](https://raw.githubusercontent.com/smartbetter/Android-NewsClient/master/ScreenShot/Screenshot3.gif)
 
 ## License
     
