@@ -16,10 +16,10 @@
 
 ScreenShot文件夹为效果演示图（与项目代码无关）
 
-![](https://raw.githubusercontent.com/smartbetter/Android-NewsClient/master/ScreenShot/Screenshot0.gif)
-![](https://raw.githubusercontent.com/smartbetter/Android-NewsClient/master/ScreenShot/Screenshot1.gif)
-![](https://raw.githubusercontent.com/smartbetter/Android-NewsClient/master/ScreenShot/Screenshot2.gif)
-![](https://raw.githubusercontent.com/smartbetter/Android-NewsClient/master/ScreenShot/Screenshot3.gif)
+![](https://raw.githubusercontent.com/smartbetter/AndroidNewsClient/master/ScreenShot/Screenshot0.gif)
+![](https://raw.githubusercontent.com/smartbetter/AndroidNewsClient/master/ScreenShot/Screenshot1.gif)
+![](https://raw.githubusercontent.com/smartbetter/AndroidNewsClient/master/ScreenShot/Screenshot2.gif)
+![](https://raw.githubusercontent.com/smartbetter/AndroidNewsClient/master/ScreenShot/Screenshot3.gif)
 
 ## License
     
